@@ -3,6 +3,8 @@
 ## Descripción
 Este proyecto contiene el backend desarrollado con **Node.js** y **Express** para la plataforma **PetAdopt**, una aplicación que permite gestionar adopciones de mascotas. Proporciona una **API REST** segura y sencilla para gestionar usuarios, mascotas y procesos relacionados con las adopciones.
 
+## Backend desplegado en Render
+
 ## Características Principales
 
 - Autenticación JWT
@@ -12,7 +14,7 @@ Este proyecto contiene el backend desarrollado con **Node.js** y **Express** par
 - Organización modular del código (routes, controllers, models)
 - Base de datos MongoDB con Mongoose
 
-## Stack tecnológico
+## Tecnología
 
 - **Node.js**
 - **Express.js**
